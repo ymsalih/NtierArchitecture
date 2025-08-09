@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\NtierArchitecture\NtierArchitecture.Entities\bin\Debug\net8.0\NtierArchitecture.Entities.deps.json
+C:\Users\HP\source\repos\NtierArchitecture\NtierArchitecture.Entities\bin\Debug\net8.0\NtierArchitecture.Entities.dll
+C:\Users\HP\source\repos\NtierArchitecture\NtierArchitecture.Entities\bin\Debug\net8.0\NtierArchitecture.Entities.pdb
+C:\Users\HP\source\repos\NtierArchitecture\NtierArchitecture.Entities\obj\Debug\net8.0\NtierArchitecture.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\NtierArchitecture\NtierArchitecture.Entities\obj\Debug\net8.0\NtierArchitecture.Entities.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\NtierArchitecture\NtierArchitecture.Entities\obj\Debug\net8.0\NtierArchitecture.Entities.AssemblyInfo.cs
+C:\Users\HP\source\repos\NtierArchitecture\NtierArchitecture.Entities\obj\Debug\net8.0\NtierArchitecture.Entities.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NtierArchitecture\NtierArchitecture.Entities\obj\Debug\net8.0\NtierArchitecture.Entities.dll
+C:\Users\HP\source\repos\NtierArchitecture\NtierArchitecture.Entities\obj\Debug\net8.0\refint\NtierArchitecture.Entities.dll
+C:\Users\HP\source\repos\NtierArchitecture\NtierArchitecture.Entities\obj\Debug\net8.0\NtierArchitecture.Entities.pdb
+C:\Users\HP\source\repos\NtierArchitecture\NtierArchitecture.Entities\obj\Debug\net8.0\ref\NtierArchitecture.Entities.dll
