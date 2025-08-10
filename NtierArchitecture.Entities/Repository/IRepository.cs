@@ -14,7 +14,7 @@ namespace NtierArchitecture.Entities.Repository
         void Remove(T entity); // nesneyi silmek için metod 
         Task<T> GetByIDasync(Expression<Func< T,bool>> expression, CancellationToken cancellationToken); // bir nesneyi asenkron olarak şarta göre getirmek için method 
         // user => user.Id == 5; bu şekilde 
-        IQueryable<T> GetAll(); // tüm nesneler sorgulanabilir olarak döner
+        IQueryable<T> GetAll(); // tüm nesneler sorgulanabilir olarak döner sorgunun son hali ile bize verileriçekiyor list şeklinde olmuş olsaydı son halini eklemek kod kalabalığı yapabilirdi
         IQueryable<T> GwtWhere(Expression<Func<T, bool>> expression); // üzerinde sorgu yapılabilen koleksiyon
         
         // belirli şartlara uyan nesneleri sorgular 

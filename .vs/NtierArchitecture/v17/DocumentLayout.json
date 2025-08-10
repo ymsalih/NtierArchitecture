@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\NtierArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF077287-14F2-4026-B9B1-A0331020EFF0}|NtierArchitecture.Entities\\NtierArchitecture.Entities.csproj|c:\\users\\hp\\source\\repos\\ntierarchitecture\\ntierarchitecture.entities\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF077287-14F2-4026-B9B1-A0331020EFF0}|NtierArchitecture.Entities\\NtierArchitecture.Entities.csproj|solutionrelative:ntierarchitecture.entities\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF077287-14F2-4026-B9B1-A0331020EFF0}|NtierArchitecture.Entities\\NtierArchitecture.Entities.csproj|c:\\users\\hp\\source\\repos\\ntierarchitecture\\ntierarchitecture.entities\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF077287-14F2-4026-B9B1-A0331020EFF0}|NtierArchitecture.Entities\\NtierArchitecture.Entities.csproj|solutionrelative:ntierarchitecture.entities\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF077287-14F2-4026-B9B1-A0331020EFF0}|NtierArchitecture.Entities\\NtierArchitecture.Entities.csproj|c:\\users\\hp\\source\\repos\\ntierarchitecture\\ntierarchitecture.entities\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF077287-14F2-4026-B9B1-A0331020EFF0}|NtierArchitecture.Entities\\NtierArchitecture.Entities.csproj|solutionrelative:ntierarchitecture.entities\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF077287-14F2-4026-B9B1-A0331020EFF0}|NtierArchitecture.Entities\\NtierArchitecture.Entities.csproj|c:\\users\\hp\\source\\repos\\ntierarchitecture\\ntierarchitecture.entities\\models\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF077287-14F2-4026-B9B1-A0331020EFF0}|NtierArchitecture.Entities\\NtierArchitecture.Entities.csproj|solutionrelative:ntierarchitecture.entities\\models\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF077287-14F2-4026-B9B1-A0331020EFF0}|NtierArchitecture.Entities\\NtierArchitecture.Entities.csproj|c:\\users\\hp\\source\\repos\\ntierarchitecture\\ntierarchitecture.entities\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF077287-14F2-4026-B9B1-A0331020EFF0}|NtierArchitecture.Entities\\NtierArchitecture.Entities.csproj|solutionrelative:ntierarchitecture.entities\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF077287-14F2-4026-B9B1-A0331020EFF0}|NtierArchitecture.Entities\\NtierArchitecture.Entities.csproj|c:\\users\\hp\\source\\repos\\ntierarchitecture\\ntierarchitecture.entities\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF077287-14F2-4026-B9B1-A0331020EFF0}|NtierArchitecture.Entities\\NtierArchitecture.Entities.csproj|solutionrelative:ntierarchitecture.entities\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF077287-14F2-4026-B9B1-A0331020EFF0}|NtierArchitecture.Entities\\NtierArchitecture.Entities.csproj|c:\\users\\hp\\source\\repos\\ntierarchitecture\\ntierarchitecture.entities\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF077287-14F2-4026-B9B1-A0331020EFF0}|NtierArchitecture.Entities\\NtierArchitecture.Entities.csproj|solutionrelative:ntierarchitecture.entities\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF077287-14F2-4026-B9B1-A0331020EFF0}|NtierArchitecture.Entities\\NtierArchitecture.Entities.csproj|c:\\users\\hp\\source\\repos\\ntierarchitecture\\ntierarchitecture.entities\\repository\\iuserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF077287-14F2-4026-B9B1-A0331020EFF0}|NtierArchitecture.Entities\\NtierArchitecture.Entities.csproj|solutionrelative:ntierarchitecture.entities\\repository\\iuserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF077287-14F2-4026-B9B1-A0331020EFF0}|NtierArchitecture.Entities\\NtierArchitecture.Entities.csproj|c:\\users\\hp\\source\\repos\\ntierarchitecture\\ntierarchitecture.entities\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF077287-14F2-4026-B9B1-A0331020EFF0}|NtierArchitecture.Entities\\NtierArchitecture.Entities.csproj|solutionrelative:ntierarchitecture.entities\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 122,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\NtierArchitecture\\NtierArchitecture.Entities\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "NtierArchitecture.Entities\\Models\\UserRole.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\NtierArchitecture\\NtierArchitecture.Entities\\Models\\UserRole.cs",
+              "RelativeToolTip": "NtierArchitecture.Entities\\Models\\UserRole.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T20:07:22.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\NtierArchitecture\\NtierArchitecture.Entities\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "NtierArchitecture.Entities\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\NtierArchitecture\\NtierArchitecture.Entities\\Models\\Category.cs",
+              "RelativeToolTip": "NtierArchitecture.Entities\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T20:07:20.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\NtierArchitecture\\NtierArchitecture.Entities\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "NtierArchitecture.Entities\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\NtierArchitecture\\NtierArchitecture.Entities\\Models\\AppUser.cs",
+              "RelativeToolTip": "NtierArchitecture.Entities\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T19:56:12.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\NtierArchitecture\\NtierArchitecture.Entities\\Models\\AppRole.cs",
+              "RelativeDocumentMoniker": "NtierArchitecture.Entities\\Models\\AppRole.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\NtierArchitecture\\NtierArchitecture.Entities\\Models\\AppRole.cs",
+              "RelativeToolTip": "NtierArchitecture.Entities\\Models\\AppRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T19:56:06.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\NtierArchitecture\\NtierArchitecture.Entities\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "NtierArchitecture.Entities\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\NtierArchitecture\\NtierArchitecture.Entities\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "NtierArchitecture.Entities\\Repository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T19:37:20.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRole.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\NtierArchitecture\\NtierArchitecture.Entities\\Repository\\IUserRole.cs",
+              "RelativeDocumentMoniker": "NtierArchitecture.Entities\\Repository\\IUserRole.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\NtierArchitecture\\NtierArchitecture.Entities\\Repository\\IUserRole.cs",
+              "RelativeToolTip": "NtierArchitecture.Entities\\Repository\\IUserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T19:37:10.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\NtierArchitecture\\NtierArchitecture.Entities\\Repository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "NtierArchitecture.Entities\\Repository\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\NtierArchitecture\\NtierArchitecture.Entities\\Repository\\IUnitOfWork.cs",
+              "RelativeToolTip": "NtierArchitecture.Entities\\Repository\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T19:37:08.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\NtierArchitecture\\NtierArchitecture.Entities\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "NtierArchitecture.Entities\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\NtierArchitecture\\NtierArchitecture.Entities\\Repository\\IRepository.cs",
+              "RelativeToolTip": "NtierArchitecture.Entities\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T19:37:06.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\NtierArchitecture\\NtierArchitecture.Entities\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "NtierArchitecture.Entities\\Repository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\NtierArchitecture\\NtierArchitecture.Entities\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "NtierArchitecture.Entities\\Repository\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T19:36:57.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 344,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
